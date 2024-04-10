@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "pnbaLeZpXRSUogoLcbp59TJ07qwVmjMqO6RwcsYBw5M=",
+  "Source": "Frontend",
+  "BasePath": "_content/Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Frontend/wwwroot",
+      "Source": "Frontend",
+      "ContentRoot": "/home/malachi/C-_GameStore/Frontend/wwwroot/",
+      "BasePath": "_content/Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/malachi/C-_GameStore/Frontend/obj/Debug/net8.0/scopedcss/bundle/Frontend.styles.css",
+      "SourceId": "Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/malachi/C-_GameStore/Frontend/obj/Debug/net8.0/scopedcss/bundle/",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "Frontend.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/malachi/C-_GameStore/Frontend/obj/Debug/net8.0/scopedcss/bundle/Frontend.styles.css"
+    },
+    {
+      "Identity": "/home/malachi/C-_GameStore/Frontend/obj/Debug/net8.0/scopedcss/projectbundle/Frontend.bundle.scp.css",
+      "SourceId": "Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/malachi/C-_GameStore/Frontend/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "Frontend.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/malachi/C-_GameStore/Frontend/obj/Debug/net8.0/scopedcss/projectbundle/Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/malachi/C-_GameStore/Frontend/wwwroot/app.css",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/malachi/C-_GameStore/Frontend/wwwroot/",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/app.css"
+    }
+  ]
+}
