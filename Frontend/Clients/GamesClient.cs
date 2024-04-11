@@ -7,8 +7,8 @@ public class GamesClient
     [
     new(){
 Id = 1,
-Name = "Street Fighter II",
-Genre = "Action",
+Name = "Street Jumper II",
+Genre = "Kids",
 Price = 19.99M,
 ReleaseDate = new DateOnly(1992, 7, 15)
 },
