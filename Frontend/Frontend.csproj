@@ -6,25 +6,25 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Content Remove="Components/Pages/EditGame.razor" />
-  </ItemGroup>
-
   <!-- <ItemGroup>
-    <None Include="Clients/GamesClient.cs" />
+    <Content Remove="Components/Pages/EditGame.razor" />
   </ItemGroup> -->
+
+  <ItemGroup>
+    <None Include="Clients/GamesClient.cs" />
+  </ItemGroup>
 
   <ItemGroup>
     <None Include="Components/Layout/NavMenu.razor" />
     <None Include="Components/Pages/EditGame.razor" />
   </ItemGroup>
 
-  <ItemGroup>
+  <!-- <ItemGroup>
     <UpToDateCheckInput Remove="Components/Pages/EditGame.razor" />
   </ItemGroup>
 
   <ItemGroup>
     <_ContentIncludedByDefault Remove="Components/Pages/EditGame.razor" />
-  </ItemGroup>
+  </ItemGroup> -->
 
 </Project>

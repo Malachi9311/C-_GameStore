@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pnbaLeZpXRSUogoLcbp59TJ07qwVmjMqO6RwcsYBw5M=",
+  "Hash": "s+rRdG35uSFB1RsDdD2bOF8MtFf2Sx0h9ViWZsQsE4w=",
   "Source": "Frontend",
   "BasePath": "_content/Frontend",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "Frontend/wwwroot",
+      "Name": "Frontend\\wwwroot",
       "Source": "Frontend",
-      "ContentRoot": "/home/malachi/C-_GameStore/Frontend/wwwroot/",
+      "ContentRoot": "C:\\Users\\Ntuthuko\\source\\repos\\C-_GameStore\\Frontend\\wwwroot\\",
       "BasePath": "_content/Frontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/malachi/C-_GameStore/Frontend/obj/Debug/net8.0/scopedcss/bundle/Frontend.styles.css",
+      "Identity": "C:\\Users\\Ntuthuko\\source\\repos\\C-_GameStore\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Frontend.styles.css",
       "SourceId": "Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "/home/malachi/C-_GameStore/Frontend/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "C:\\Users\\Ntuthuko\\source\\repos\\C-_GameStore\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Frontend",
       "RelativePath": "Frontend.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/malachi/C-_GameStore/Frontend/obj/Debug/net8.0/scopedcss/bundle/Frontend.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Ntuthuko\\source\\repos\\C-_GameStore\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Frontend.styles.css"
     },
     {
-      "Identity": "/home/malachi/C-_GameStore/Frontend/obj/Debug/net8.0/scopedcss/projectbundle/Frontend.bundle.scp.css",
+      "Identity": "C:\\Users\\Ntuthuko\\source\\repos\\C-_GameStore\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
       "SourceId": "Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "/home/malachi/C-_GameStore/Frontend/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "C:\\Users\\Ntuthuko\\source\\repos\\C-_GameStore\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Frontend",
       "RelativePath": "Frontend.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/malachi/C-_GameStore/Frontend/obj/Debug/net8.0/scopedcss/projectbundle/Frontend.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Ntuthuko\\source\\repos\\C-_GameStore\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css"
     },
     {
-      "Identity": "/home/malachi/C-_GameStore/Frontend/wwwroot/app.css",
+      "Identity": "C:\\Users\\Ntuthuko\\source\\repos\\C-_GameStore\\Frontend\\wwwroot\\app.css",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/malachi/C-_GameStore/Frontend/wwwroot/",
+      "ContentRoot": "C:\\Users\\Ntuthuko\\source\\repos\\C-_GameStore\\Frontend\\wwwroot\\",
       "BasePath": "_content/Frontend",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -71,7 +71,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/app.css"
+      "OriginalItemSpec": "wwwroot\\app.css"
     }
   ]
 }
